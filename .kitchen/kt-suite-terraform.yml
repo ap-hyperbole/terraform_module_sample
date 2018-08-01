@@ -1,0 +1,9 @@
+---
+last_action: verify
+last_error: 
+kitchen_terraform_output: {}
+kitchen_terraform_group:
+  name: basic
+  controls:
+  - file_check
+kitchen_terraform_hostname: localhost

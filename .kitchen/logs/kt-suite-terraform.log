@@ -1,0 +1,4 @@
+I, [2018-08-01T01:03:08.501167 #16155]  INFO -- kt-suite-terraform: -----> Verifying <kt-suite-terraform>...
+I, [2018-08-01T01:03:08.501489 #16155]  INFO -- kt-suite-terraform: Verifying host 'localhost' of group 'basic'
+I, [2018-08-01T01:03:08.555922 #16155]  INFO -- kt-suite-terraform: Loaded default 
+I, [2018-08-01T01:03:08.775911 #16155]  INFO -- kt-suite-terraform: Finished verifying <kt-suite-terraform> (0m0.27s).

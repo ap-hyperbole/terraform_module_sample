@@ -1,0 +1,8 @@
+I, [2018-08-01T01:03:07.236558 #16155]  INFO -- Kitchen: -----> Starting Kitchen (v1.23.0)
+W, [2018-08-01T01:03:07.462496 #16155]  WARN -- Kitchen: Running command `terraform version`
+I, [2018-08-01T01:03:07.488133 #16155]  INFO -- Kitchen: Terraform v0.11.7
+I, [2018-08-01T01:03:07.520828 #16155]  INFO -- Kitchen: + provider.null v1.0.0
+I, [2018-08-01T01:03:07.520882 #16155]  INFO -- Kitchen: 
+W, [2018-08-01T01:03:07.533742 #16155]  WARN -- Kitchen: Terraform v0.11.7 is supported
+I, [2018-08-01T01:03:08.501107 #16155]  INFO -- Kitchen: -----> Verifying <kt-suite-terraform>...
+I, [2018-08-01T01:03:08.776177 #16155]  INFO -- Kitchen: -----> Kitchen is finished. (0m1.54s)
